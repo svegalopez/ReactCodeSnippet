@@ -1,20 +1,2 @@
-# Development environment
 
-This application is bundled using webpack.
-
-## Rules:
-
-- only add dependencies when they are truly needed
-- use css modules to style components
-- you must maintain 100% coverage
-- you must format your code with prettier
-
-# Developing
-
-`npm start` will launch the dev server. Check the terminal output for the url.
-
-# Building
-
-`npm build:<env>` will build the app for the target environment.
-
-Feel Free to add as many environments as you wish
+<img width="746" alt="Screen Shot 2023-03-25 at 10 10 00 AM" src="https://user-images.githubusercontent.com/19710123/227722488-6cf5b18a-b862-4d5a-9c1e-d59a88b585c3.png">

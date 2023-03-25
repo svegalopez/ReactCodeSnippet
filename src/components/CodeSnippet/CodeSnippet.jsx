@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import hljs from "highlight.js";
 import { Clipboard, CheckCircle } from "react-feather";
 
-import "../../../highlight/styles/a11y-light.min.css";
+import "highlight.js/styles/a11y-light.css";
 import "./codesnippet.css";
 
 export default function CodeSnippet({ language, children }) {

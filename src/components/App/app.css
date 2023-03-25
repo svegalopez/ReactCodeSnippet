@@ -1,0 +1,24 @@
+.app {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  font-family: Work Sans;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.snippets {
+  flex-direction: column;
+  display: flex;
+  row-gap: 24px;
+}
+
+.sub-title {
+  font-weight: 300;
+}
